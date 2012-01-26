@@ -21,6 +21,7 @@
 ![pair up](pairup.gif)
 
 !SLIDE
+#The Problem#
 [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life)
 
 !SLIDE
@@ -40,6 +41,7 @@
  * No duplication
  * Expresses intent
  * Small
+
 !SLIDE center
 #Languages#
 ![experiment](experiment.gif)
