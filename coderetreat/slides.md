@@ -1,3 +1,10 @@
+!SLIDE
+#Coderetreat Omaha#
+
+![Glider](glider.gif)
+
+!SLIDE
+
 What are we here for?
 The mechanics of Code Retreat
 Coding
