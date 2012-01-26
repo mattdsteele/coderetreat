@@ -9,8 +9,9 @@
 * The mechanics of Code Retreat
 * Coding
 
-!SLIDE
+!SLIDE center
 #The gap#
+![daily life](daily-life.gif)
 
 !SLIDE
 #\#coderetreat#
@@ -20,22 +21,18 @@
 ![pair up](pairup.gif)
 
 !SLIDE
+[Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life)
+
+!SLIDE
 #45 minutes#
 
 !SLIDE center
 #Delete your code#
 ![delete-code](delete-code.gif)
 
-!SLIDE
-[Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life)
-
 !SLIDE center
 #Designed to keep you from finishing#
 ![cat-keyboard](cat-keyboard.gif)
-
-!SLIDE center
-#Languages#
-![experiment](experiment.gif)
 
 !SLIDE bullets incremental
 #Rules of Simple Design#
@@ -43,8 +40,10 @@
  * No duplication
  * Expresses intent
  * Small
+!SLIDE center
+#Languages#
+![experiment](experiment.gif)
 
 !SLIDE center
 #Thanks to UP#
 ![UP Logo](up-logo.png)
-
