@@ -11,7 +11,7 @@
 
 !SLIDE center
 #The gap#
-![daily life](daily-life.gif)
+![experiment](experiment.gif)
 
 !SLIDE
 #\#coderetreat#
@@ -44,7 +44,6 @@
 
 !SLIDE center
 #Languages#
-![experiment](experiment.gif)
 
 !SLIDE center
 #Thanks to UP#
